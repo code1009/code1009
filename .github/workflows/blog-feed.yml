@@ -18,3 +18,4 @@ jobs:
           git add .
           git commit -m "docs: update feed" || true
           git push
+
