@@ -22,6 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code1009)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code1009)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- SNS Links -->
 [https://github.com/code1009](https://github.com/code1009)  
 [https://code1009.github.io/](https://code1009.github.io/)  
