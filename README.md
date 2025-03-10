@@ -21,6 +21,8 @@
 ![](https://avatars.githubusercontent.com/u/9472495?s=400&u=2df04e1c78d875ea822f513017663edec6e366e3&v=4)
 
 <!-- SNS Links -->
+[https://github.com/code1009](https://github.com/code1009)  
+[https://code1009.github.io/](https://code1009.github.io/)  
 
 <!--
 **code1009/code1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
