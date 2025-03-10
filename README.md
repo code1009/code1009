@@ -2,6 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code1009)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code1009)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Recent Blog Posts
 <!-- feed start -->
