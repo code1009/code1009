@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code1009)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=code1009)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Recent Blog Posts
 <!-- feed start -->
 - Mar 07 - [Visual Studio 자동으로 소스코드를 자동으로 utf8로 저장](https://code1009.github.io/p/visual-studio-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-utf8%EB%A1%9C-%EC%A0%80%EC%9E%A5/)
