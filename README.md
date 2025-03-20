@@ -1,7 +1,7 @@
-### 안녕하세요? 👋
-![](https://avatars.githubusercontent.com/u/9472495?s=400&u=2df04e1c78d875ea822f513017663edec6e366e3&v=4)  
+### 안녕하세요?
 [https://github.com/code1009](https://github.com/code1009)  
 [https://code1009.github.io/](https://code1009.github.io/)  
+[](https://avatars.githubusercontent.com/u/9472495?s=400&u=2df04e1c78d875ea822f513017663edec6e366e3&v=4)  
 
 ### 최신 블로그 목록
 <!-- feed start -->
@@ -24,7 +24,7 @@
 **code1009/code1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋 짝짝짝
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
