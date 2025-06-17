@@ -1,7 +1,6 @@
 # 셈말짓기
 [https://github.com/code1009](https://github.com/code1009)  
 [https://code1009.github.io/](https://code1009.github.io/)  
-![](https://avatars.githubusercontent.com/u/9472495?s=400&u=2df04e1c78d875ea822f513017663edec6e366e3&v=4)  
 
 ## Github
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=code1009)](https://github.com/anuraghazra/github-readme-stats)  
